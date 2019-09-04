@@ -24,4 +24,4 @@ Move to each project directory and run -
 ### `npm install`
 ### `npm start`
 
-For more complete details, you can visit our blog - <a href="https://www.vtnetzwelt.com/web-development-blog/getting-started-with-react-hooks/">Getting started with React Hooks</a>
+For complete details, you can visit our blog - <a href="https://www.vtnetzwelt.com/web-development-blog/getting-started-with-react-hooks/">Getting started with React Hooks</a>
